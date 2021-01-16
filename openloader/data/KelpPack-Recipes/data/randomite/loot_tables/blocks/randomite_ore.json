@@ -7,7 +7,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "weight": 20,
+          "weight": 15,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -57,6 +57,16 @@
         {
           "type": "minecraft:item",
           "weight": 17,
+          "name": "create:copper_ore"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 17,
+          "name": "create:zinc_ore"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 17,
           "name": "minecraft:iron_ore"
         },
         {
@@ -81,8 +91,13 @@
         },
         {
           "type": "minecraft:item",
-          "weight": 2,
+          "weight": 3,
           "name": "minecraft:diamond"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "randomite:randomite_ore"
         }
       ],
       "conditions": [
