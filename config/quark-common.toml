@@ -251,11 +251,11 @@
 
 [tools]
 	"Ancient Tomes" = true
-	"Bottled Cloud" = true
+	"Bottled Cloud" = false
 	Camera = true
 	"Color Runes" = true
 	"Pathfinder Maps" = true
-	Pickarang = true
+	Pickarang = false
 	"Seed Pouch" = true
 	"Slime In A Bucket" = true
 	Trowel = true
@@ -282,10 +282,10 @@
 		"Woodland Mansion Weight" = 15
 		#
 		#Set to 0 to not generate in Nether Fortresses
-		"Nether Fortress Weight" = 0
+		"Nether Fortress Weight" = 5
 		#
 		#Set to 0 to not generate in Underwater Ruins
-		"Underwater Ruin Weight" = 0
+		"Underwater Ruin Weight" = 5
 
 	[tools.bottled_cloud]
 		"Cloud Level Bottom" = 127
@@ -465,7 +465,7 @@
 		"Max Bounces" = 1
 
 	[tweaks.sign_editing]
-		"Requires Empty Hand" = false
+		"Requires Empty Hand" = true
 
 	[tweaks.simple_harvest]
 		#
@@ -1808,7 +1808,7 @@
 
 	[mobs.stonelings]
 		"Max Y Level" = 24
-		"Enable Diamond Heart" = true
+		"Enable Diamond Heart" = false
 		"Cautious Stonelings" = true
 		"Tamable Stonelings" = true
 
@@ -1882,8 +1882,8 @@
 		"Leaves List" = ["minecraft:spruce_leaves", "minecraft:birch_leaves", "minecraft:oak_leaves", "minecraft:jungle_leaves", "minecraft:acacia_leaves", "minecraft:dark_oak_leaves", "atmospheric:rosewood_leaves", "atmospheric:morado_leaves", "atmospheric:yucca_leaves", "autumnity:maple_leaves", "environmental:willow_leaves", "environmental:hanging_willow_leaves", "minecraft:vine"]
 
 	[client.improved_tooltips]
-		"Attribute Tooltips" = true
-		"Food Tooltips" = true
+		"Attribute Tooltips" = false
+		"Food Tooltips" = false
 		"Shulker Tooltips" = true
 		"Map Tooltips" = true
 		"Enchanting Tooltips" = true
@@ -1920,17 +1920,17 @@
 		"Enable Shiny Rabbit" = true
 		"Enable Shiny Llama" = true
 		"Enable L G B T Bees" = true
-		"Every Bee Is L G B T" = false
+		"Every Bee Is L G B T" = true
 		#
 		#The chance for an animal to have a special "Shiny" skin, like a shiny pokemon. This is 1 in X. Set to 0 to disable.
 		"Shiny Animal Chance" = 2048
 
 [oddities]
-	Backpack = true
-	Magnets = true
+	Backpack = false
+	Magnets = false
 	"Matrix Enchanting" = true
-	Pipes = true
-	"Totem Of Holding" = true
+	Pipes = false
+	"Totem Of Holding" = false
 
 	[oddities.backpack]
 		#
@@ -2034,7 +2034,7 @@
 		#
 		#Set this to false to only allow the owner of a totem to collect its items rather than any player
 		"Allow Anyone To Collect" = true
-		"Enable Soul Compass" = true
+		"Enable Soul Compass" = false
 
 [experimental]
 	"Adjustable Chat" = false
@@ -2059,19 +2059,19 @@
 		#
 		#Makes Mending act like the Unmending mod
 		#https://www.curseforge.com/minecraft/mc-mods/unmending
-		"Nerf Mending" = true
+		"Nerf Mending" = false
 		#
 		#Resets all villager discounts when zombified to prevent reducing prices to ridiculous levels
 		"Nerf Villager Discount" = true
 		#
 		#Makes Iron Golems not drop Iron Ingots
-		"Disable Iron Farms" = true
+		"Disable Iron Farms" = false
 		#
 		#Makes Boats not glide on ice
-		"Disable Ice Roads" = true
+		"Disable Ice Roads" = false
 		#
 		#Makes Sheep not drop Wool when killed
-		"Disable Wool Drops" = true
+		"Disable Wool Drops" = false
 
 	[experimental.overlay_shader]
 		#
@@ -2079,4 +2079,3 @@
 		#Some useful shaders include 'desaturate', 'oversaturate', 'bumpy'
 		#Colorblind simulation shaders are available in the form of 'deutranopia', 'protanopia', 'tritanopia', and 'achromatopsia'
 		Shader = "none"
-
