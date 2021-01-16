@@ -61,7 +61,7 @@
 [overlayPosition]
 	#If true, the map position's x axis will align 0 to the right
 	#of the screen, increasing towards the left.
-	alignRight = true
+	alignRight = false
 	#If true, the map position's y axis will align 0 to the bottom
 	#of the screen, increasing towards the top.
 	alignBottom = false
@@ -112,5 +112,4 @@
 	#If false, the minimap will show the map of the first atlas in the hotbar.
 	requiresHold = false
 	#Set true to enable minimap
-	enabled = true
-
+	enabled = false
