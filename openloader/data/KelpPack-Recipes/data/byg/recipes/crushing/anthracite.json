@@ -1,0 +1,24 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "byg:anthracite_ore"
+    }
+  ],
+  "results": [
+    {
+      "item": "byg:anthracite",
+      "count": 2
+    },
+    {
+      "item": "byg:anthracite",
+      "count": 2,
+      "chance": 0.5
+    },
+    {
+      "item": "minecraft:cobblestone",
+      "chance": 0.125
+    }
+  ],
+  "processingTime": 300
+}

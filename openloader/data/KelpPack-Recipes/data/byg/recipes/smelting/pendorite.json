@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "byg:pendorite_ore"
+  },
+  "result": "byg:pendorite_scraps",
+  "experience": 3.0,
+  "cookingtime": 200
+}
