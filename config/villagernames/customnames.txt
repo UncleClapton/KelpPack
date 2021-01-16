@@ -9,5 +9,4 @@ Dee,
 Chappy,
 Ben (The Hoe),
 Ron,
-Becci,
-Alex,
+Becci
