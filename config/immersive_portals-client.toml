@@ -19,3 +19,4 @@ lag_attack_proof = true
 model_data_fix = false
 #...
 dimension_render_redirect = "immersive_portals:alternate1->minecraft:overworld\nimmersive_portals:alternate2->minecraft:overworld\nimmersive_portals:alternate3->minecraft:overworld\nimmersive_portals:alternate4->minecraft:overworld\nimmersive_portals:alternate5->minecraft:overworld\n"
+

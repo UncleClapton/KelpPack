@@ -20,3 +20,4 @@ nether_portal_mode = "normal"
 #End Portal Mode
 #Allowed Values: normal, toObsidianPlatform, scaledView, vanilla
 end_portal_mode = "toObsidianPlatform"
+
