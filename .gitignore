@@ -1,0 +1,17 @@
+# Thanks guys
+antiqueatlas
+# Ignore all files
+*.*
+
+# allow all files in specific directories
+!config/**
+!defaultconfigs/**
+!icons/**
+!kubejs/**
+!openloader/**
+!packmenu/**
+
+# Allow specific files
+!.gitignore
+!readme.md
+!./icon.png
