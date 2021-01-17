@@ -142,5 +142,45 @@
   "byg:red_desert": {
     "enable_seasonal_effects": false,
     "use_tropical_seasons": false
+   },
+  "byg:red_rock_mountains": {
+    "enable_seasonal_effects": false,
+    "use_tropical_seasons": false
+   },
+  "byg:redwood_tropics": {
+    "enable_seasonal_effects": false,
+    "use_tropical_seasons": true
+   },
+  "byg:shattered_glacier": {
+    "enable_seasonal_effects": false,
+    "use_tropical_seasons": false
+   },
+  "byg:shrublands": {
+    "enable_seasonal_effects": false,
+    "use_tropical_seasons": false
+   },
+  "byg:sierra_valley": {
+    "enable_seasonal_effects": false,
+    "use_tropical_seasons": false
+   },
+  "byg:snowy_blue_taiga": {
+    "enable_seasonal_effects": false,
+    "use_tropical_seasons": false
+   },
+  "byg:snowy_coniferous_forest": {
+    "enable_seasonal_effects": false,
+    "use_tropical_seasons": false
+   },
+  "byg:snowy_deciduous_forest": {
+    "enable_seasonal_effects": false,
+    "use_tropical_seasons": false
+   },
+  "byg:snowy_evergreen_taiga": {
+    "enable_seasonal_effects": false,
+    "use_tropical_seasons": false
+   },
+  "byg:stone_forest": {
+    "enable_seasonal_effects": false,
+    "use_tropical_seasons": false
   }
 }
