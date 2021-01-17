@@ -1,7 +1,3 @@
-#BYG Main Biomes start on byg:alps
-#BYG Sub Biomes start on byg:alpine_foothills
-#Atmospheric Biomes start on atmospheric:rainforest
-#
 {
   "minecraft:cold_ocean": {
     "enable_seasonal_effects": false, 
