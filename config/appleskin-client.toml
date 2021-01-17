@@ -12,3 +12,4 @@
 	showFoodExhaustionHudUnderlay = true
 	#If true, adds a line that shows your hunger, saturation, and exhaustion level in the F3 debug overlay
 	showFoodStatsInDebugOverlay = true
+
