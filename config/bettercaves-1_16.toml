@@ -117,7 +117,7 @@
 				# Default: 128
 				#Range: 0 ~ 255
 				"Surface Cave Maximum Altitude" = 128
-				# The density of surface caves. Higher = more caves, closer together.
+				# The density of surface caves. Higher = more caves, closer together. 
 				# Default: 17
 				#Range: 0 ~ 100
 				"Surface Cave Density" = 17
@@ -134,7 +134,7 @@
 				# Default: 128
 				#Range: 0 ~ 255
 				"Vanilla Cave Maximum Altitude" = 128
-				# The density of vanilla caves. Higher = more caves, closer together.
+				# The density of vanilla caves. Higher = more caves, closer together. 
 				# Default: 14 (value used in vanilla)
 				#Range: 0 ~ 100
 				"Vanilla Cave Density" = 14
@@ -307,3 +307,4 @@
 		#     Vanilla Cave: Bricks
 		# Default: false
 		"Enable DEBUG Visualizer" = false
+

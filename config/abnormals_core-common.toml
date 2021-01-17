@@ -15,3 +15,4 @@
 		#The chance to stunt baby mob growth when feeding a poisonous potato; Default: 0.1
 		#Range: 0.0 ~ 1.0
 		poisonChance = 0.1
+

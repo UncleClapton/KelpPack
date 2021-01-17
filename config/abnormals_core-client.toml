@@ -12,3 +12,4 @@
 		sweaterEnabled = true
 		#If the slabfish hat's custom type should be enabled. If false, the default swamp slabfish appears; Default: True
 		typeEnabled = true
+
