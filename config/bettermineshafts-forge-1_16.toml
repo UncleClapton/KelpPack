@@ -1,7 +1,7 @@
 
 ["YUNG's Better Mineshafts"]
 	# Default: .003
-	"Mineshaft Spawn Rate" = 0.003
+	"Mineshaft Spawn Rate" = 0.005
 	# The lowest the floor of a mineshaft can be.
 	# Default: 17
 	"Minimum y-coordinate" = 17

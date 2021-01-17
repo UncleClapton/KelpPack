@@ -5,9 +5,9 @@
 #Removes minimum and maximum XP costs on the anvil. Anvils are also less likely to break.
 "AnvilImprovements enabled" = true
 #Lightweight armor is invisible and does not increase mob awareness when drinking Potion of Invisibility.
-"ArmorInvisibility enabled" = true
+"ArmorInvisibility enabled" = false
 #Storage for maps that automatically updates the displayed map as you explore.
-"Atlas enabled" = true
+"Atlas enabled" = false
 #Refills your hotbar from your inventory.
 "AutoRestock enabled" = true
 #Unlocks all vanilla recipes.
@@ -98,7 +98,7 @@
 #Allows access to chest contents if the player has an Ender Chest in their inventory.
 "PortableEnderChest enabled" = true
 #Raid horns are sometimes dropped from raid leaders and can be used to call off or start raids.
-"RaidHorns enabled" = true
+"RaidHorns enabled" = false
 #A lantern that emits light when a redstone signal is received.
 "RedstoneLanterns enabled" = true
 #A block that acts like sand but is powered like a block of redstone.
@@ -120,7 +120,7 @@
 #Allows enchanted books to stack.
 "StackableEnchantedBooks enabled" = true
 #Allows potions to stack.
-"StackablePotions enabled" = true
+"StackablePotions enabled" = false
 #Allows stews to stack.
 "StackableStews enabled" = true
 #Strays spawn anywhere within their biome and have a chance to drop blue ice.
@@ -130,7 +130,7 @@
 #When applied, this enchantment lets you change the color of the enchanted glint using dye on an anvil. Requires Core 'Enchantment glint override' to be true.
 "Tinted enabled" = true
 #As long as a Totem of Undying is in your inventory, it will be consumed to protect you from death.
-"UseTotemFromInventory enabled" = true
+"UseTotemFromInventory enabled" = false
 #Barrels available in all types of vanilla wood.
 "VariantBarrels enabled" = true
 #Bookshelves available in all types of vanilla wood.
@@ -431,4 +431,3 @@
 [WitchesDropLuck]
 	#Chance (out of 1.0) of a witch dropping a Potion of Luck when killed by the player.
 	"Drop chance" = 0.05
-

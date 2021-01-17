@@ -5,7 +5,7 @@
 	# Entries must have the mod namespace included.
 	# For example: "[minecraft:overworld, minecraft:the_nether, rats:ratlantis]"
 	# Default: "[minecraft:overworld]"
-	"Whitelisted Dimensions" = "[minecraft:overworld]"
+	"Whitelisted Dimensions" = "[minecraft:overworld, minecraft:the_nether]"
 	# Automatically enables Better Caves in every possible dimension.
 	#     If this is enabled, the Whitelisted Dimension IDs option is ignored.
 	# Default: false
@@ -38,7 +38,7 @@
 			#         ExtraLarge: 0.001
 			# Default: 0.008
 			#Range: 0.0 ~ 0.05000000074505806
-			"Cave Region Size Custom Value" = 0.00800000037997961
+			"Cave Region Size Custom Value" = 0.008
 
 			###########################################################################################################
 			## Settings used in the generation of type 1 caves, which are more worm-like.
@@ -47,7 +47,7 @@
 				# The minimum y-coordinate at which type 1 caves can generate.
 				# Default: 1
 				#Range: 0 ~ 255
-				"Type 1 Cave Minimum Altitude" = 1
+				"Type 1 Cave Minimum Altitude" = 3
 				# The maximum y-coordinate at which type 1 caves can generate.
 				# Default: 80
 				#Range: 0 ~ 255
@@ -78,7 +78,7 @@
 				# The minimum y-coordinate at which type 2 caves can generate.
 				# Default: 1
 				#Range: 0 ~ 255
-				"Type 2 Cave Minimum Altitude" = 1
+				"Type 2 Cave Minimum Altitude" = 3
 				# The maximum y-coordinate at which type 2 caves can generate.
 				# Default: 80
 				#Range: 0 ~ 255
@@ -173,7 +173,7 @@
 				# The minimum y-coordinate at which Liquid Caverns can generate.
 				# Default: 1
 				#Range: 0 ~ 255
-				"Liquid Cavern Minimum Altitude" = 1
+				"Liquid Cavern Minimum Altitude" = 3
 				# The maximum y-coordinate at which Liquid Caverns can generate.
 				#     Caverns will attempt to close off anyway if this value is greater than the surface's altitude.
 				# Default: 35
@@ -200,7 +200,7 @@
 				# The minimum y-coordinate at which Floored Caverns can generate.
 				# Default: 1
 				#Range: 0 ~ 255
-				"Floored Cavern Minimum Altitude" = 1
+				"Floored Cavern Minimum Altitude" = 3
 				# The maximum y-coordinate at which Floored Caverns can generate.
 				#     Caverns will attempt to close off anyway if this value is greater than the surface's altitude.
 				# Default: 35
@@ -226,10 +226,10 @@
 			# Percent chance of a region having water instead of lava at low altitudes.
 			# Default: 40%
 			#Range: 0.0 ~ 100.0
-			"Water Region Spawn Chance" = 40.0
+			"Water Region Spawn Chance" = 50.0
 			# Determines how large water regions are.
 			# Default: Medium (recommended).
-			"Water Region Size" = "Medium"
+			"Water Region Size" = "Custom"
 			# Custom value for water region size. Smaller value = larger regions. This value is very sensitive to change.
 			#     ONLY WORKS IF Water Region Size IS Custom.
 			#     Provided values:
@@ -239,7 +239,7 @@
 			#         ExtraLarge: 0.001
 			# Default: 0.004
 			#Range: 0.0 ~ 0.05
-			"Water Region Size Custom Value" = 0.004
+			"Water Region Size Custom Value" = 0.005
 
 		###########################################################################################################
 		## Settings used for ravine generation.
@@ -250,7 +250,7 @@
 			"Enable Ravines" = true
 			# Set to true to enable flooded ravines in ocean biomes.
 			# Default: true
-			"Enable Flooded Ravines" = true
+			"Enable Flooded Ravines" = false
 
 		###########################################################################################################
 		## Miscellaneous settings used in cave and cavern generation.
@@ -278,7 +278,7 @@
 			"Override Surface Detection" = false
 			# Set to true to enable flooded underground in ocean biomes.
 			# Default: true
-			"Enable Flooded Underground" = true
+			"Enable Flooded Underground" = false
 
 	###########################################################################################################
 	## Configure how bedrock generates.
@@ -287,7 +287,7 @@
 		# Replaces the usual bedrock generation pattern with flat layers.
 		#     Activates in all whitelisted dimensions.
 		# Default: true
-		"Flatten Bedrock" = true
+		"Flatten Bedrock" = false
 		# The width of the bedrock layer. Only works if Flatten Bedrock is true.
 		#Range: 0 ~ 256
 		"Bedrock Layer Width" = 1
