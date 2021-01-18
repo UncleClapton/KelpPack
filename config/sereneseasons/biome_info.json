@@ -87,10 +87,6 @@
     "enable_seasonal_effects": false,
     "use_tropical_seasons": true
   },
-  "byg:blue_taiga": {
-    "enable_seasonal_effects": false,
-    "use_tropical_seasons": false
-  },
   "byg:bluff_steeps": {
     "enable_seasonal_effects": false,
     "use_tropical_seasons": false
@@ -196,14 +192,6 @@
     "use_tropical_seasons": false
    },
   "byg:basalt_barrera": {
-    "enable_seasonal_effects": false,
-    "use_tropical_seasons": false
-   },
-  "byg:blue_giant_taiga": {
-    "enable_seasonal_effects": false,
-    "use_tropical_seasons": false
-   },
-  "byg:blue_taiga_hills": {
     "enable_seasonal_effects": false,
     "use_tropical_seasons": false
    },
