@@ -15,8 +15,8 @@ correct_cross_portal_entity_rendering = true
 pure_mirror = false
 #Render Fewer Portals When Laggy
 lag_attack_proof = true
-#(Fix Compatibility with Other Mod's Block Model. May Decrease FPS
-model_data_fix = false
 #...
 dimension_render_redirect = "immersive_portals:alternate1->minecraft:overworld\nimmersive_portals:alternate2->minecraft:overworld\nimmersive_portals:alternate3->minecraft:overworld\nimmersive_portals:alternate4->minecraft:overworld\nimmersive_portals:alternate5->minecraft:overworld\n"
+#New model data fix. May Decrease FPS
+model_data_fix_new = true
 

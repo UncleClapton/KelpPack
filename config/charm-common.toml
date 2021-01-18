@@ -431,3 +431,4 @@
 [WitchesDropLuck]
 	#Chance (out of 1.0) of a witch dropping a Potion of Luck when killed by the player.
 	"Drop chance" = 0.05
+

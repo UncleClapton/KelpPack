@@ -4,5 +4,5 @@
 	"is currently harvestable string" = "✔"
 	"not currently harvestable string" = "✘"
 	"shearability string" = "✂"
-	"harvest level tooltip" = false
+	"harvest level tooltip" = true
 
