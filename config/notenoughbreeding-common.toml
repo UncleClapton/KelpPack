@@ -6,5 +6,5 @@
 	#HARD - 1/6
 	#IMPOSSIBLE - 1/10
 	#Allowed Values: EASY, MEDIUM, HARD, IMPOSSIBLE
-	breedDifficulty = "MEDIUM"
+	breedDifficulty = "HARD"
 
