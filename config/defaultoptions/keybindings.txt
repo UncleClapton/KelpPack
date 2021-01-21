@@ -33,7 +33,7 @@ key_key.hotbar.7:key.keyboard.7:NONE
 key_key.hotbar.8:key.keyboard.8:NONE
 key_key.hotbar.9:key.keyboard.9:NONE
 key_sndctrl.text.quickvolumemenu.open:key.keyboard.v:CONTROL
-key_sndctrl.text.soundconfig.open:key.keyboard.s:CONTROL
+key_sndctrl.text.soundconfig.open:NONE
 key_key.secondarySprint:key.keyboard.w:NONE
 key_key.dismount:key.keyboard.left.shift:NONE
 key_key.narrator:key.keyboard.b:CONTROL

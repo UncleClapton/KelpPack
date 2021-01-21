@@ -33,8 +33,8 @@ graphicsMode:1
 ao:2
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:[]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","file/VanillaTweaks.zip","mod_resources","openloader/data/KelpPack-Recipes","quark:emote_resources","file/KelpResources"]
+incompatibleResourcePacks:["quark:emote_resources"]
 lastServer:
 lang:en_us
 chatVisibility:0
@@ -62,12 +62,12 @@ tutorialStep:none
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
-skipMultiplayerWarning:false
+skipMultiplayerWarning:true
 hideMatchedNames:true
 joinedFirstServer:false
 syncChunkWrites:true
 soundCategory_master:1.0
-soundCategory_music:1.0
+soundCategory_music:0.25
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
