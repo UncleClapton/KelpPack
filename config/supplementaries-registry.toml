@@ -16,7 +16,7 @@
 		wind_vane = true
 		redstone_illuminator = true
 		notice_board = true
-		crank = false
+		crank = true
 		jar = true
 		faucet = true
 		turn_table = true
@@ -26,7 +26,7 @@
 		hanging_sign = true
 		bellows = true
 		sconce = true
-		sconce_green = false
+		sconce_green = true
 		sconce_ender = true
 		sconce_soul = true
 		candelabra = true
@@ -42,11 +42,11 @@
 		safe = true
 		copper_lantern = true
 		flute = false
-		stone_lamp = true
+		stone_lamp = false
 		#WIP
-		laser_block = true
+		laser_block = false
 		#WIP
-		flag = true
+		flag = false
 
 	[registration.entities]
 		firefly = true
