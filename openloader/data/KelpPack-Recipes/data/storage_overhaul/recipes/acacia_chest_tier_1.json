@@ -1,12 +1,12 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "###",
-    "#I#",
-    "###"
+    "PPP",
+    "PIP",
+    "PPP"
   ],
   "key": {
-    "#": {
+    "P": {
       "item": "minecraft:acacia_planks"
     },
     "I": {
