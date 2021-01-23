@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "storage_overhaul:oak_chest"
+    }
+  ],
+  "result": {
+    "item": "quark:oak_chest"
+  }
+}

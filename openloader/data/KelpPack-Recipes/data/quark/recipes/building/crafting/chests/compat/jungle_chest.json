@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "storage_overhaul:jungle_chest"
+    }
+  ],
+  "result": {
+    "item": "quark:jungle_chest"
+  }
+}
