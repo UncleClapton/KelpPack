@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "C",
+    "M"
+  ],
+  "key": {
+    "C": {
+      "item": "quark:crimson_chest"
+    },
+    "M": {
+      "item": "minecraft:minecart"
+    }
+  },
+  "result": {
+    "item": "storage_overhaul:crimson_chest_minecart"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "C",
+    "M"
+  ],
+  "key": {
+    "C": {
+      "item": "quark:warped_chest"
+    },
+    "M": {
+      "item": "minecraft:minecart"
+    }
+  },
+  "result": {
+    "item": "storage_overhaul:warped_chest_minecart"
+  }
+}

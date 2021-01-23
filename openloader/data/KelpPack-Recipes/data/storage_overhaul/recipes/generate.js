@@ -179,6 +179,23 @@ const types = {
     "result": (mat) => ({
       "item": `storage_overhaul:${mat}_storage_barrel`
     })
+  },
+  'chest_minecart': {
+    "pattern": [
+      "C",
+      "M"
+    ],
+    "key": (mat) => ({
+      "C": {
+        "item": `quark:${mat}_chest`
+      },
+      "M": {
+        "item": `minecraft:minecart`
+      }
+    }),
+    "result": (mat) => ({
+      "item": `storage_overhaul:${mat}_chest_minecart`
+    })
   }
 }
 
