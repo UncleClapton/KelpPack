@@ -33,8 +33,8 @@ graphicsMode:1
 ao:2
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","file/VanillaTweaks.zip","mod_resources","openloader/data/KelpPack-Recipes","quark:emote_resources","file/KelpResources"]
-incompatibleResourcePacks:["quark:emote_resources"]
+resourcePacks:[]
+incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
 chatVisibility:0
