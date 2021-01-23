@@ -1,5 +1,14 @@
 const fs = require('fs');
 
+
+function stemOrLog(mat) {
+  if (['crimson', 'warped'].includes(mat)) {
+    return 'stem'
+  }
+
+  return 'log'
+}
+
 const materials = [
   'acacia',
   'birch',
@@ -164,7 +173,7 @@ const types = {
         "item": `minecraft:${mat}_slab`
       },
       "L": {
-        "item": `minecraft:${mat}_log`
+        "item": `minecraft:${mat}_${stemOrLog(mat)}`
       }
     }),
     "result": (mat) => ({
@@ -174,8 +183,9 @@ const types = {
 }
 
 const errCB = (err) => {
-  if(err) {
+  if (err) {
     console.log('WHOOPS: ', err)
+    throw new Error('I didnt spend enough time on this to warrant error recovery')
   }
 }
 
@@ -196,3 +206,7 @@ materials.forEach((material) => {
     }, null, 2)}\n`, errCB)
   })
 })
+
+
+
+console.log('OKAY!')
