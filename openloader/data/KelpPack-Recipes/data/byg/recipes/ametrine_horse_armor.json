@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "netheritehorsearmor:netherite_horse_armor"
+  },
+  "addition": {
+    "tag": "forge:gems/ametrine"
+  },
+  "result": {
+    "item": "byg:ametrine_horse_armor"
+  }
+}

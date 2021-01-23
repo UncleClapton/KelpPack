@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:golden_horse_armor"
+  },
+  "addition": {
+    "tag": "forge:scraps/pendorite"
+  },
+  "result": {
+    "item": "byg:pendorite_horse_armor"
+  }
+}
