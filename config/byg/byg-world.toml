@@ -70,7 +70,7 @@
 		[Overworld.Stones.Scoria_Stone]
 			#
 			#Generate Scoria Stone?
-			GenerateScoriaStone = true
+			GenerateScoriaStone = false
 			#
 			#Y level to start generating at.
 			#Default: 63
@@ -150,4 +150,3 @@
 	#Default: 3
 	#Range: 0 ~ 10
 	NetherBiomeSize = 3
-
