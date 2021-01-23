@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PSP",
+    "L L",
+    "PLP"
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:dark_oak_planks"
+    },
+    "S": {
+      "item": "minecraft:dark_oak_slab"
+    },
+    "L": {
+      "item": "minecraft:dark_oak_log"
+    }
+  },
+  "result": {
+    "item": "storage_overhaul:dark_oak_storage_barrel"
+  }
+}

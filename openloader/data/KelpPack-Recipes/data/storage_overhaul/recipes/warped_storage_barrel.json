@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PSP",
+    "L L",
+    "PLP"
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:warped_planks"
+    },
+    "S": {
+      "item": "minecraft:warped_slab"
+    },
+    "L": {
+      "item": "minecraft:warped_log"
+    }
+  },
+  "result": {
+    "item": "storage_overhaul:warped_storage_barrel"
+  }
+}

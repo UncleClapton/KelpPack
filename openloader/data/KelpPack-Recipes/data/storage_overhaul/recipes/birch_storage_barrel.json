@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PSP",
+    "L L",
+    "PLP"
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:birch_planks"
+    },
+    "S": {
+      "item": "minecraft:birch_slab"
+    },
+    "L": {
+      "item": "minecraft:birch_log"
+    }
+  },
+  "result": {
+    "item": "storage_overhaul:birch_storage_barrel"
+  }
+}
