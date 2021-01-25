@@ -3,7 +3,7 @@
 	#Whether crops are affected by seasons.
 	seasonal_crops = true
 	#Whether unlisted seeds are fertile every season. False means they're fertile every season except Winter
-	ignore_unlisted_crops = false
+	ignore_unlisted_crops = true
 	#Whether to include tooltips on crops listing which seasons they're fertile in. Note: This only applies to listed crops.
 	crop_tooltips = true
 	#How crops behave when out of season.
@@ -14,7 +14,7 @@
 	out_of_season_crop_behavior = 1
 	#Maximum underground Y level out of season crops can be grown below.  Set to -1 to disable feature
 	#Range: > -1
-	underground_fertility_level = 16
+	underground_fertility_level = 24
 
 [seasonal_fertility]
 	#Crops growable in Spring
@@ -29,4 +29,3 @@
 	#Crops growable in Winter
 	#(List either the seed item for the crop, or the crop block itself)
 	winter_crops = ["atmospheric:passion_vine"]
-
