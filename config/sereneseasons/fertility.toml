@@ -14,18 +14,18 @@
 	out_of_season_crop_behavior = 1
 	#Maximum underground Y level out of season crops can be grown below.  Set to -1 to disable feature
 	#Range: > -1
-	underground_fertility_level = 48
+	underground_fertility_level = 16
 
 [seasonal_fertility]
 	#Crops growable in Spring
 	#(List either the seed item for the crop, or the crop block itself)
-	spring_crops = ["atmospheric:passion_vine", "minecraft:sweet_berries", "minecraft:fern", "minecraft:bamboo", "minecraft:bamboo_sapling", "minecraft:carrot", "minecraft:potato"]
+	spring_crops = ["atmospheric:passion_vine", "minecraft:sweet_berries", "minecraft:bamboo", "minecraft:bamboo_sapling", "minecraft:carrot", "minecraft:potato"]
 	#Crops growable in Summer
 	#(List either the seed item for the crop, or the crop block itself)
-	summer_crops = ["atmospheric:passion_vine", "atmospheric:aloe_kernels", "atmospheric:aloe_vera", "atmospheric:tall_aloe_vera", "minecraft:sweet_berries", "byg:blueberries", "byg:blueberry_bush", "minecraft:fern", "minecraft:bamboo", "minecraft:bamboo_sapling", "minecraft:cactus", "minecraft:sugar_cane", "minecraft:cocoa", "minecraft:wheat_seeds", "minecraft:melon_seeds", "minecraft:cocoa_beans"]
+	summer_crops = ["atmospheric:passion_vine", "atmospheric:aloe_kernels", "atmospheric:aloe_vera", "atmospheric:tall_aloe_vera", "minecraft:sweet_berries", "byg:blueberries", "byg:blueberry_bush", "minecraft:bamboo", "minecraft:bamboo_sapling", "minecraft:cactus", "minecraft:sugar_cane", "minecraft:cocoa", "minecraft:wheat_seeds", "minecraft:melon_seeds", "minecraft:cocoa_beans"]
 	#Crops growable in Autumn
 	#(List either the seed item for the crop, or the crop block itself)
-	autumn_crops = ["atmospheric:passion_vine", "atmospheric:aloe_kernels", "atmospheric:aloe_vera", "atmospheric:tall_aloe_vera", "minecraft:sweet_berries", "minecraft:fern", "minecraft:wheat_seeds", "minecraft:pumpkin_seeds", "minecraft:beetroot_seeds", "minecraft:carrot"]
+	autumn_crops = ["atmospheric:passion_vine", "atmospheric:aloe_kernels", "atmospheric:aloe_vera", "atmospheric:tall_aloe_vera", "minecraft:sweet_berries", "minecraft:wheat_seeds", "minecraft:pumpkin_seeds", "minecraft:beetroot_seeds", "minecraft:carrot"]
 	#Crops growable in Winter
 	#(List either the seed item for the crop, or the crop block itself)
 	winter_crops = ["atmospheric:passion_vine"]
