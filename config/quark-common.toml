@@ -1724,7 +1724,7 @@
 	Foxhound = true
 	Frogs = true
 	Stonelings = true
-	Toretoise = true
+	Toretoise = false
 
 	[mobs.crabs]
 		"Enable Brewing" = true
