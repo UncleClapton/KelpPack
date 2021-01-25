@@ -29,3 +29,4 @@
 	#Crops growable in Winter
 	#(List either the seed item for the crop, or the crop block itself)
 	winter_crops = ["atmospheric:passion_vine"]
+
