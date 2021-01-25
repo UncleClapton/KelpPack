@@ -1121,7 +1121,7 @@
 		#
 		#The chance for the monster box generator to try and place one in a chunk, 1 is 100%
 		#This can be higher than 100% if you want multiple per chunk, , 0 is 0%
-		"Chance Per Chunk" = 0.8
+		"Chance Per Chunk" = 0.35
 		"Min Y" = 5
 		"Max Y" = 30
 		"Min Mob Count" = 5
@@ -1129,7 +1129,7 @@
 		"Enable Extra Loot Table" = true
 		#
 		#How many blocks to search vertically from a position before trying to place a block. Higher means you'll get more boxes in open spaces.
-		"Search Range" = 4
+		"Search Range" = 2
 
 		[world.monster_box.dimensions]
 			"Is Blacklist" = false
@@ -2082,4 +2082,3 @@
 		#Some useful shaders include 'desaturate', 'oversaturate', 'bumpy'
 		#Colorblind simulation shaders are available in the form of 'deuteranopia', 'protanopia', 'tritanopia', and 'achromatopsia'
 		Shader = "none"
-
