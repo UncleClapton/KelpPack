@@ -104,8 +104,8 @@ const types = {
   },
   'chest_tier_1': {
     "pattern": [
-      "PPP",
       "PIP",
+      "PPP",
       "PPP"
     ],
     "key": (mat) => ({
@@ -122,8 +122,8 @@ const types = {
   },
   'chest_tier_2': {
     "pattern": [
-      "PPP",
       "PGP",
+      "PPP",
       "PPP"
     ],
     "key": (mat) => ({
@@ -140,8 +140,8 @@ const types = {
   },
   'chest_tier_3': {
     "pattern": [
-      "PPP",
       "PDP",
+      "PPP",
       "PPP"
     ],
     "key": (mat) => ({
