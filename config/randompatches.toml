@@ -100,7 +100,7 @@ standalone_modifiers_do_not_conflict_with_combinations = true
 #  - ${username}: The username.
 # '$' can be escaped by using an extra '$'.
 # Default: "Minecraft ${mcversion}"
-simple_title = "Projekt Kelp 164-1.0"
+simple_title = "Projekt Kelp"
 # The Minecraft window title.
 # The current activity is not available.
 # Variables:
@@ -110,7 +110,7 @@ simple_title = "Projekt Kelp 164-1.0"
 #  - ${modversion:modid}: The version of the mod with the specified ID.
 # '$' can be escaped by using an extra '$'.
 # Default: "Minecraft ${mcversion}"
-title = "Projekt Kelp 164-1.0"
+title = "Projekt Kelp 1.0.0-beta.2"
 # The Minecraft window title that also takes into account the current activity.
 # Variables:
 #  - ${mcversion}: The Minecraft version
@@ -120,7 +120,7 @@ title = "Projekt Kelp 164-1.0"
 #  - ${modversion:modid}: The version of the mod with the specified ID.
 # '$' can be escaped by using an extra '$'.
 # Default: "Minecraft ${mcversion} - ${activity}"
-title_with_activity = "Projekt Kelp 164-1.0 - ${username} - ${activity}"
+title_with_activity = "Projekt Kelp 1.0.0-beta.2 - ${activity} - ${username}"
 # The path to the 16x16 Minecraft window icon relative to the Minecraft instance directory.
 # Forward slashes should be used even on Windows to preserve compatibility with other platforms.
 # Backward slashes will automatically be replaced.
