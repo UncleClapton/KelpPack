@@ -123,6 +123,22 @@
     "enable_seasonal_effects": false,
     "use_tropical_seasons": false
   },
+  "byg:cherry_blossom_forest": {
+    "enable_seasonal_effects": true,
+    "use_tropical_seasons": false
+  },
+  "byg:cika_woods": {
+    "enable_seasonal_effects": true,
+    "use_tropical_seasons": false
+  },
+  "byg:cold_swamplands": {
+    "enable_seasonal_effects": false,
+    "use_tropical_seasons": true
+  },
+  "byg:coniferous_forest": {
+    "enable_seasonal_effects": true,
+    "use_tropical_seasons": false
+  },
   "byg:crag_gardens": {
     "enable_seasonal_effects": false,
     "use_tropical_seasons": true
