@@ -71,6 +71,10 @@
     "enable_seasonal_effects": false,
     "use_tropical_seasons": false
   },
+  "byg:allium_fields": {
+    "enable_seasonal_effects": true,
+    "use_tropical_seasons": false
+  },
   "byg:alps": {
     "enable_seasonal_effects": false,
     "use_tropical_seasons": false
@@ -78,6 +82,22 @@
   "byg:araucaria_savanna": {
     "enable_seasonal_effects": false,
     "use_tropical_seasons": false  
+  },
+  "byg:amaranth_fields": {
+    "enable_seasonal_effects": true,
+    "use_tropical_seasons": false
+  },
+  "byg:ancient_forest": {
+    "enable_seasonal_effects": true,
+    "use_tropical_seasons": false
+  },
+  "byg:aspen_forest": {
+    "enable_seasonal_effects": true,
+    "use_tropical_seasons": false
+  },
+  "byg:autumnal_valley": {
+    "enable_seasonal_effects": true,
+    "use_tropical_seasons": false
   },
   "byg:baobab_savanna": {
     "enable_seasonal_effects": false,
@@ -87,8 +107,16 @@
     "enable_seasonal_effects": false,
     "use_tropical_seasons": true
   },
+  "byg:blue_taiga": {
+    "enable_seasonal_effects": true,
+    "use_tropical_seasons": false
+  },
   "byg:bluff_steeps": {
     "enable_seasonal_effects": false,
+    "use_tropical_seasons": false
+  },
+  "byg:boreal_forest": {
+    "enable_seasonal_effects": true,
     "use_tropical_seasons": false
   },
   "byg:canyons": {
