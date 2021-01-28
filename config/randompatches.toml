@@ -216,7 +216,7 @@ max_vehicle_speed = 1000000.0
 # The vanilla default is -0.0007.
 # Setting this to a positive value allows boats to float up when they move into a higher block of water, fixing MC-91206: https://bugs.mojang.com/browse/MC-91206
 # Default: 0.023
-boat_buoyancy_under_flowing_water = 0.050
+boat_buoyancy_under_flowing_water = 0.025
 # How long it takes in ticks for a boat passenger to be ejected when underwater.
 # Set this to -1 to disable underwater boat passenger ejection.
 # Min: -1
