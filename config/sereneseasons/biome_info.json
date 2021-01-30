@@ -151,13 +151,49 @@
     "enable_seasonal_effects": false,
     "use_tropical_seasons": false
   },
+  "byg:deciduous_forest": {
+    "enable_seasonal_effects": true,
+    "use_tropical_seasons": false
+  },
+  "byg:dover_mountains": {
+    "enable_seasonal_effects": true,
+    "use_tropical_seasons": false
+  },
   "byg:dunes": {
     "enable_seasonal_effects": false,
+    "use_tropical_seasons": false
+  },
+  "byg:ebony_woods": {
+    "enable_seasonal_effects": true,
+    "use_tropical_seasons": false
+  },
+  "byg:enchanted_forest": {
+    "enable_seasonal_effects": true,
+    "use_tropical_seasons": false
+  },
+  "byg:enchanted_grove": {
+    "enable_seasonal_effects": true,
+    "use_tropical_seasons": false
+  },
+  "byg:evergreen_taiga": {
+    "enable_seasonal_effects": true,
     "use_tropical_seasons": false
   },
   "byg:glowshroom_bayou": {
     "enable_seasonal_effects": false,
     "use_tropical_seasons": true
+  },
+  "byg:grassland_plateau": {
+    "enable_seasonal_effects": true,
+    "use_tropical_seasons": false
+  },
+  "byg:great_lakes": {
+    "enable_seasonal_effects": true,
+    "use_tropical_seasons": false
+  },
+  "byg:grove": {
+    "enable_seasonal_effects": true,
+    "use_tropical_seasons": false
   },
   "byg:guiana_shield": {
     "enable_seasonal_effects": false,
@@ -170,19 +206,39 @@
   "byg:lush_tundra": {
     "enable_seasonal_effects": false,
     "use_tropical_seasons": false
-   },
+  },
   "byg:mangrove_marshes": {
     "enable_seasonal_effects": false,
     "use_tropical_seasons": false
-   },
+  },
+  "byg:maple_taiga": {
+    "enable_seasonal_effects": true,
+    "use_tropical_seasons": false
+  },
+  "byg:meadow": {
+    "enable_seasonal_effects": true,
+    "use_tropical_seasons": false
+  },
   "byg:mojave_desert": {
     "enable_seasonal_effects": false,
     "use_tropical_seasons": false
-   },
+  },
+  "byg:orchard": {
+    "enable_seasonal_effects": true,
+    "use_tropical_seasons": false
+  },
+  "byg:prairie": {
+    "enable_seasonal_effects": true,
+    "use_tropical_seasons": false
+  },
   "byg:red_desert": {
     "enable_seasonal_effects": false,
     "use_tropical_seasons": false
-   },
+  },
+  "byg:red_oak_forest": {
+    "enable_seasonal_effects": true,
+    "use_tropical_seasons": false
+  },
   "byg:red_rock_mountains": {
     "enable_seasonal_effects": false,
     "use_tropical_seasons": false
@@ -191,6 +247,26 @@
     "enable_seasonal_effects": false,
     "use_tropical_seasons": true
    },
+  "byg:rose_fields": {
+    "enable_seasonal_effects": true,
+    "use_tropical_seasons": false
+  },
+  "byg:seasonal_birch_forest": {
+    "enable_seasonal_effects": true,
+    "use_tropical_seasons": false
+  },
+  "byg:seasonal_deciduous_forest": {
+    "enable_seasonal_effects": true,
+    "use_tropical_seasons": false
+  },
+  "byg:seasonal_forest": {
+    "enable_seasonal_effects": true,
+    "use_tropical_seasons": false
+  },
+  "byg:seasonal_taiga": {
+    "enable_seasonal_effects": true,
+    "use_tropical_seasons": false
+  },
   "byg:shattered_glacier": {
     "enable_seasonal_effects": false,
     "use_tropical_seasons": false
@@ -203,6 +279,10 @@
     "enable_seasonal_effects": false,
     "use_tropical_seasons": false
    },
+   "byg:skyris_highlands": {
+    "enable_seasonal_effects": true,
+    "use_tropical_seasons": false
+  },
   "byg:snowy_blue_taiga": {
     "enable_seasonal_effects": false,
     "use_tropical_seasons": false
@@ -219,6 +299,14 @@
     "enable_seasonal_effects": false,
     "use_tropical_seasons": false
    },
+   "byg:stone_forest": {
+    "enable_seasonal_effects": true,
+    "use_tropical_seasons": false
+  },
+  "byg:the_black_forest": {
+    "enable_seasonal_effects": true,
+    "use_tropical_seasons": false
+  },
   "byg:tropical_fungal_forest": {
     "enable_seasonal_effects": false,
     "use_tropical_seasons": true
@@ -231,6 +319,22 @@
     "enable_seasonal_effects": false,
     "use_tropical_seasons": false
    },
+   "byg:twilight_valley": {
+    "enable_seasonal_effects": true,
+    "use_tropical_seasons": false
+  },
+  "byg:weeping_witch_forest": {
+    "enable_seasonal_effects": true,
+    "use_tropical_seasons": false
+  },
+  "byg:woodlands": {
+    "enable_seasonal_effects": true,
+    "use_tropical_seasons": false
+  },
+  "byg:zelkova_forest": {
+    "enable_seasonal_effects": true,
+    "use_tropical_seasons": false
+  },
   "byg:alpine_foothills": {
     "enable_seasonal_effects": false,
     "use_tropical_seasons": false
@@ -384,10 +488,6 @@
     "use_tropical_seasons": true
    },
   "atmospheric:sparse_rainforest_plateau": {
-    "enable_seasonal_effects": false,
-    "use_tropical_seasons": true
-   },
-  "atmospheric:rainforest_basin": {
     "enable_seasonal_effects": false,
     "use_tropical_seasons": true
    },
