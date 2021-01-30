@@ -4,7 +4,7 @@
     "use_tropical_seasons": false
   },
   "minecraft:mushroom_fields": {
-    "enable_seasonal_effects": false,
+    "enable_seasonal_effects": true,
     "use_tropical_seasons": false
   },
   "minecraft:deep_ocean": {
@@ -16,7 +16,7 @@
     "use_tropical_seasons": false
   },
   "minecraft:river": {
-    "enable_seasonal_effects": false,
+    "enable_seasonal_effects": true,
     "use_tropical_seasons": false
   },
   "minecraft:deep_cold_ocean": {
