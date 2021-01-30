@@ -10,11 +10,13 @@ antiqueatlas
 !kubejs/**
 !openloader/**
 !packmenu/**
+!resourcepacks/**
 
 # Allow specific files
 !.gitignore
 !readme.md
 !./icon.png
 
-#Ignore spark config as this is user-specific
+#Ignore specifics
 config/spark/
+resourcepacks/Quark Programmer Art.zip

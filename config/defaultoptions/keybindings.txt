@@ -110,3 +110,5 @@ key_quark.keybind.transfer_insert:key.keyboard.unknown:NONE
 key_servertabinfo.keys.show:key.keyboard.tab:CONTROL
 key_sndctrl.text.quickvolumemenu.open:key.keyboard.v:CONTROL
 key_sndctrl.text.soundconfig.open:NONE
+key_dropoff:key.keyboard.unknown
+key_dropoff:key.keyboard.unknown
