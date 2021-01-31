@@ -24,10 +24,10 @@
 	"Minimum Slots" = 6
 	#Survival inventory button position width offset.
 	#Range: > -2147483648
-	"Survival inventory button X offset" = 54
+	"Survival inventory button X offset" = 64
 	#Survival inventory button position height offset.
 	#Range: > -2147483648
-	"Survival inventory button Y offset" = -14
+	"Survival inventory button Y offset" = -17
 	"Blacklisted Block Entities" = ["minecraft:furnace", "minecraft:blast_furnace", "minecraft:smoker"]
 	"Whitelisted containers" = ["curios:curios_container"]
 
