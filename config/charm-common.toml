@@ -9,7 +9,7 @@
 #Storage for maps that automatically updates the displayed map as you explore.
 "Atlas enabled" = false
 #Refills your hotbar from your inventory.
-"AutoRestock enabled" = true
+"AutoRestock enabled" = false
 #Unlocks all vanilla recipes.
 "AutomaticRecipeUnlock enabled" = true
 #Right-click a bat with a bucket to capture it. Right-click again to release it and locate entities around you.
