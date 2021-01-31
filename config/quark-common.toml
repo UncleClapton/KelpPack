@@ -236,7 +236,7 @@
 	"Chests In Boats" = true
 	"Easy Transfering" = true
 	"Hotbar Changer" = true
-	"Inventory Sorting" = true
+	"Inventory Sorting" = false
 	"Item Sharing" = true
 	"Right Click Armor" = true
 	"Shulker Box Right Click" = true
@@ -400,7 +400,7 @@
 		#A list of recipe names that should NOT be added in by default
 		"Ignored Recipes" = []
 		"Force Limited Crafting" = false
-		"Disable Recipe Book" = false
+		"Disable Recipe Book" = true
 
 	[tweaks.campfires_boost_elytra]
 		"Boost Strength" = 0.5

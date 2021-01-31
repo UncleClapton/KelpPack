@@ -67,7 +67,7 @@
 #Husks spawn anywhere within their biome and have a chance to drop sand.
 "HuskImprovements enabled" = true
 #Button to automatically tidy inventories.
-"InventoryTidying enabled" = true
+"InventoryTidying enabled" = false
 #A functional block that speeds up cooking of clay, bricks and terracotta.
 "Kilns enabled" = true
 #Lumberjacks are villagers that trade wooden items. Their job site is the woodcutter.
@@ -220,7 +220,7 @@
 	#If true, routes additional debug messages into the standard game log.
 	"Debug mode" = false
 	#If inventory crafting or inventory ender chest modules are enabled, pressing escape or inventory key returns you to the inventory rather than closing the window.
-	"Inventory button return" = false
+	"Inventory button return" = true
 	#If true, replaces vanilla glint color rendering with Charm's, allowing for multiple enchantment glint colors.
 	"Enchantment glint override" = true
 	#Set the default glint color for all enchanted items.
