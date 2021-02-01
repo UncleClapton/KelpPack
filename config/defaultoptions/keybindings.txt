@@ -57,7 +57,6 @@ key_key.jei.toggleEditMode:key.keyboard.unknown:NONE
 key_key.jei.toggleOverlay:key.keyboard.o:CONTROL
 key_key.jump:key.keyboard.space:NONE
 key_key.left:key.keyboard.a:NONE
-key_key.lightoverlay.enable_overlay:key.keyboard.f7:NONE
 key_key.loadToolbarActivator:key.keyboard.x:NONE
 key_key.narrator:key.keyboard.b:CONTROL
 key_key.pause:key.keyboard.escape:NONE
