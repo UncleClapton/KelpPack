@@ -61,20 +61,20 @@
 		spec = ["minecraft:cobblestone", "minecraft:dirt", "minecraft:gravel", "minecraft:sand", "/tag:forge:cobblestone", "/tag:forge:gravel", "/tag:forge:sand"]
 
 	[[sorting.category]]
-	name = "ores"
-	spec = ["/tag:forge:ores"]
+		name = "ores"
+		spec = ["/tag:forge:ores"]
 
 	[[sorting.category]]
-	name = "logs"
-	spec = ["/tag:minecraft:logs"]
+		name = "logs"
+		spec = ["/tag:minecraft:logs"]
 
 	[[sorting.category]]
-	name = "planks"
-	spec = ["/tag:minecraft:planks"]
+		name = "planks"
+		spec = ["/tag:minecraft:planks"]
 
 	[[sorting.category]]
-	name = "wool"
-	spec = ["/tag:minecraft:wool"]
+		name = "wool"
+		spec = ["/tag:minecraft:wool"]
 
 	[[sorting.category]]
 		name = "blocks"
