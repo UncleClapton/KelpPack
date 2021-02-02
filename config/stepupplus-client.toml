@@ -1,0 +1,20 @@
+#Overlay x (horizontal) offset. In scaled pixels relative to it's normal position. (Default: 0)
+#Range: > -2147483648
+overlay_offset_x = 0
+#Overlay y (vertical) offset. In scaled pixels relative to it's normal position. (Default: 0)
+#Range: > -2147483648
+overlay_offset_y = 0
+#Block height the player is able to climb without jumping while StepUp is active. (Default: 1.25)
+#Range: 0.6 ~ 255.0
+step_height = 255.0
+#Default state of StepUp when joining a world. (Default: true)
+default_state = true
+#Display indicator on hud when StepUp is enabled/disabled. (Default: "ALWAYS")
+# - "ALWAYS" Always display the indicator.
+# - "CHANGE" Display the indicator temporarily when StepUp is toggled.
+# - "ON_ONLY" Display the indicator when StepUp is enabled.
+# - "OFF_ONLY" Display the indicator when StepUp is disabled.
+# - "NEVER" NEVER display the UI indicator.
+#Allowed Values: ALWAYS, CHANGE, ON_ONLY, OFF_ONLY, NEVER
+overlay_mode = "OFF_ONLY"
+
