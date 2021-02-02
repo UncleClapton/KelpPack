@@ -1905,7 +1905,7 @@
 	"Greener Grass" = true
 	"Improved Mount Hud" = true
 	"Improved Tooltips" = true
-	"Usage Ticker" = true
+	"Usage Ticker" = false
 	"Variant Animal Textures" = true
 
 	[client.greener_grass]
