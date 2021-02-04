@@ -6,7 +6,7 @@ overlay_offset_x = 0
 overlay_offset_y = 0
 #Block height the player is able to climb without jumping while StepUp is active. (Default: 1.25)
 #Range: 0.6 ~ 255.0
-step_height = 255.0
+step_height = 1.25
 #Default state of StepUp when joining a world. (Default: true)
 default_state = true
 #Display indicator on hud when StepUp is enabled/disabled. (Default: "ALWAYS")
