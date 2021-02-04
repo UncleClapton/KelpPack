@@ -1,0 +1,18 @@
+{
+    "result": {
+      "item": "simplefarming:strawberry_pie"
+    },
+    "type": "crafting_shaped",
+    "pattern": [
+      "aaa", "bfS", "swD"
+    ],
+    "key": {
+      "a": { "item": "simplefarming:strawberries"},
+      "b": { "tag": "forge:ingredients/butterstick_oil"},
+      "f": { "tag": "forge:foods/flours/wheat"},
+      "S": { "item": "vanillafoodpantry:foodpowder_syrup"},
+      "s": { "tag": "carrots:portions_small_salt" },
+      "w": { "tag": "carrots:portions_small_water"},
+      "D": { "tag": "forge:foods/doughs"}
+    }
+  }
