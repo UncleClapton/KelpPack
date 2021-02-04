@@ -1,0 +1,15 @@
+
+    {"result": {
+        "item": "simplefarming:beef_and_broccoli"
+       },
+       "type": "crafting_shaped",
+       "pattern": [ "HHH", "vWh", "brr" ],
+       "key": {
+        "H": { "item": "minecraft:cooked_beef" },
+        "v": { "item": "vanillafoodpantry:raw_vegetables" },
+        "h": { "tag": "carrots:portions_small_heat" },
+        "W": { "tag": "carrots:portions_stock" },
+        "b": { "tag": "forge:bowls/wooden" },
+        "r": { "item": "simplefarming:broccoli" }
+       }
+      }
