@@ -1,7 +1,0 @@
-    {"result": {
-        "item": "simplefarming:cheese_block"
-       },
-       "type": "crafting_shaped",
-       "pattern": [ "xxx", "x x", "xxx" ],
-       "key": { "x": { "item": "vanillafoodpantry:cheese_ball" }}
-      }
