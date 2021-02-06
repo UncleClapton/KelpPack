@@ -49,7 +49,7 @@
 [automation]
 	"Chain Linkage" = true
 	"Chains Connect Blocks" = true
-	Chute = true
+	Chute = false
 	"Color Slime" = true
 	"Dispensers Place Blocks" = true
 	"Ender Watcher" = true
