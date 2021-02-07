@@ -1,0 +1,14 @@
+
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/steel"
+    }
+  ],
+  "results": [
+    {
+      "item": "mapperbase:steel_plate"
+    }
+  ]
+}
