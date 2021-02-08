@@ -11,6 +11,7 @@ antiqueatlas
 !openloader/**
 !packmenu/**
 !resourcepacks/**
+!script_backup/**
 
 # Allow specific files
 !.gitignore
