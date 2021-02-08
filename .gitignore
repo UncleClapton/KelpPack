@@ -21,3 +21,4 @@ antiqueatlas
 #Ignore specifics
 config/spark/
 resourcepacks/Quark Programmer Art.zip
+kubejs/exported/**
