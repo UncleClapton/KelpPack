@@ -917,6 +917,6 @@ onEvent('recipes', event => {
     "storage_overhaul:white_shulker_box",
     "storage_overhaul:yellow_shulker_box"
   ].forEach((id) => {
-    event.remove({ id })
+    event.remove({ id: id });
   })
 })
