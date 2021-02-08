@@ -86,10 +86,6 @@
 		#makes safes only breakable by their owner or by a player in creative
 		prevent_breaking = false
 
-	[blocks.sign_post]
-		#additional blocks besides fences that can accept a sign post
-		whitelist = ["quark:oak_post", "quark:birch_post", "quark:spruce_post", "quark:acacia_post", "quark:dark_oak_post", "quark:jungle_post", "quark:warped_post", "quark:crimson_post"]
-
 	[blocks.globe]
 		#how many globe trades to give to the wandering trader. If you have mods that add more trades to him you might want to increase this so it's not as rare
 		#Range: 0 ~ 50
