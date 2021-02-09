@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "antiqueatlas:atlas"
+    "antiqueatlas:empty_antique_atlas",
+    "antiqueatlas:antique_atlas"
   ]
 }
