@@ -10,7 +10,7 @@ forceUnicodeFont:false
 discrete_mouse_scroll:false
 invertYMouse:false
 realmsNotifications:true
-reducedDebugInfo:true
+reducedDebugInfo:false
 snooperEnabled:false
 showSubtitles:false
 touchscreen:false
