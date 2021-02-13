@@ -50,6 +50,7 @@
 		flag = false
 		gold_trapdoor = false
 		gold_door = false
+		bamboo_spikes = true
 
 	[registration.entities]
 		firefly = true
