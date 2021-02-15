@@ -34,7 +34,7 @@
 		eventLoadBalancing = false
 		#Mean tick time at which event load balancing takes effect, 1000 / mean tick time = TPS. default: 55
 		#Range: 1 ~ 200
-		meanTickEvent = 60
+		meanTickEvent = 55
 		#Enables debug log output for lagging event subscribers, default = false
 		eventDebugOutput = true
 
