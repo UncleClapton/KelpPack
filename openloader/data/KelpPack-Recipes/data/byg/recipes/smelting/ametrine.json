@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smelting",
-  "ingredient": {
-    "item": "byg:ametrine_ore"
-  },
-  "result": "byg:ametrine_gems",
-  "experience": 3.0,
-  "cookingtime": 200
-}
