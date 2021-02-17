@@ -20,6 +20,7 @@ antiqueatlas
 
 #Ignore specifics
 config/spark/**
+config/jei/bookmarks.ini
 resourcepacks/Quark Programmer Art.zip
 kubejs/exported/**
 shaderpacks/**
